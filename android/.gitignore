@@ -1,0 +1,7 @@
+/captures/
+.cxx/
+
+# Không đưa keystore / ký nhận lên repo (khác với .env)
+key.properties
+**/*.keystore
+**/*.jks

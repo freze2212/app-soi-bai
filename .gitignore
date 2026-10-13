@@ -1,0 +1,7 @@
+# Không commit biến môi trường / secret
+.env
+.env.*
+!.env.example
+
+# Output build Flutter — tái tạo được, thường vài chục MB+
+/build/
